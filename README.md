@@ -1,2 +1,2 @@
 # data_analysis_projects
-Мої проєкти з курсів Data Analytics
+Мої проєкти по Data Analytics
